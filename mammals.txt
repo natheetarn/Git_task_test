@@ -1,0 +1,86 @@
+Aardvark
+Alpaca
+Anteater
+Ape
+Armadillo
+Baboon
+Badger
+Bat
+Bear
+Beaver
+Bison
+Buffalo, African
+Cattle
+Chamois
+Cheetah
+Chimpanzee
+Chinchilla
+Coyote
+Deer
+Dog
+Dolphin
+Donkey
+Elephant
+Elephant seal
+Elk (wapiti)
+Emu
+Ferret
+Fox
+Gaur
+Gazelle
+Gerbil
+Giraffe
+Gnu
+Gorilla
+Hamster
+Hare
+Horse
+Human
+Hyena
+Jackal
+Jaguar
+Kangaroo
+Koala
+Komodo dragon
+Kouprey
+Kudu
+Lemur
+Leopard
+Lion
+Llama
+Manatee
+Meerkat
+Mink
+Monkey
+Moose
+Mouse
+Mule
+Okapi
+Opossum
+Orangutan
+Oryx
+Otter
+Ox
+Panther
+Pig
+Pony
+Porcupine
+Prairie Dog
+Raccoon
+Rat
+Red deer
+Red panda
+Reindeer (caribou)
+Rhinoceros
+Seal
+Sheep
+Shrew
+Skunk
+Sloth
+Squirrel
+Walrus
+Weasel
+Whale
+Wolf
+Wolverine
+Wombat
